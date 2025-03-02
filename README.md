@@ -29,6 +29,6 @@
 <h3> 🤝🏻 &nbsp;Contactame: </h3>
 
 <p align="center">
-<a href="[[https://www.linkedin.com/in/carlos-eduardo-utrillas-bernal/)]](https://www.linkedin.com/in/carlos-eduardo-utrillas-bernal/)"><img alt="LinkedIn" src="https://www.linkedin.com/in/carlos-eduardo-utrillas-bernal/"></a>
+<a href="https://www.linkedin.com/in/carlos-eduardo-utrillas-bernal/"><img alt="LinkedIn" src="[https://www.linkedin.com/in/carlos-eduardo-utrillas-bernal%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:utrillasbernalcarlos@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-utrillasbernal@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
