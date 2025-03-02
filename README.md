@@ -7,7 +7,7 @@
 - 💼 &nbsp; Actualmente me encuentro laborando en la extracción de datos y el mapeo de procesos.
 - 🌱 &nbsp; Aprendiendo nuevas tecnicas y formas de presentar información.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tecnologias:</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -26,9 +26,9 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Contactame: </h3>
 
 <p align="center">
-<a href="[[https://www.linkedin.com/in/carlos-eduardo-utrillas-bernal/)]](https://www.linkedin.com/in/carlos-eduardo-utrillas-bernal/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="[[https://www.linkedin.com/in/carlos-eduardo-utrillas-bernal/)]](https://www.linkedin.com/in/carlos-eduardo-utrillas-bernal/)"><img alt="LinkedIn" src="https://www.linkedin.com/in/carlos-eduardo-utrillas-bernal/"></a>
 <a href="mailto:utrillasbernalcarlos@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-utrillasbernal@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
